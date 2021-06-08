@@ -6,7 +6,6 @@
 
 
 
-
 # ESTÁ DEMASIADO SIMPLE! CREO QUE EL PROFE NO QUIERE QUE USE MAX Y MIN
 # no tiene sentido poner esa pavada adentro de una funcion! que hice mal??
 
